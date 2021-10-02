@@ -6,8 +6,7 @@ public class DemoSunday {
 		System.out.println("Sunday Demooo ...");
 		System.out.println(" XYZ ");
 		
-	}
-	//By Shams
-	public static void addNum(int a, int b){
 		
+		//By EClips
+	}
 }
